@@ -1,5 +1,7 @@
 # Hello, I'm Sai Ram 👋
 
+![My Drawing](https://raw.githubusercontent.com/sairam90804/sairam90804/main/Drawing.sketchpad.png)
+
 Welcome to my GitHub profile! I am a passionate **Software Engineer** with over 5 years of experience in full-stack development, cloud technologies, and data engineering. I specialize in building scalable systems, developing solutions for eCommerce and retail, and ensuring high availability in cloud environments. I'm always eager to explore new technologies and contribute to impactful projects.
 
 ## 🚀 About Me
