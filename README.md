@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Sai Ram 👋
 
 Welcome to my GitHub profile! I am a passionate **Software Engineer** with over 5 years of experience in full-stack development, cloud technologies, and data engineering. I specialize in building scalable systems, developing solutions for eCommerce and retail, and ensuring high availability in cloud environments. I'm always eager to explore new technologies and contribute to impactful projects.
 
@@ -51,12 +51,8 @@ Here are the tools and technologies I work with:
 - Enhancing expertise in **Azure DevOps** for better CI/CD pipeline management.
 
 ## 📫 How to reach me
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- 🌐 Website/Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- 📧 Email: [sairamoduri94@gmail.com](mailto:sairamoduri94@gmail.com)
+- 🌐 Website/Portfolio: [Linkedin.com](https://www.linkedin.com/in/saiodram/)
 
-## 📂 Some of my Projects
-- [Project 1](https://github.com/yourusername/project1): Description of the project.
-- [Project 2](https://github.com/yourusername/project2): Description of the project.
 
 Feel free to explore my repositories and connect with me!
